@@ -1,0 +1,6 @@
+1	gateway	server1
+3	gateway	serverbackend1
+5	sensor	tempsensor
+6	sensor	doorsensor
+7	sensor	motionsensor
+8	sensor	presencesensor

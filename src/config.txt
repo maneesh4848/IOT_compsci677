@@ -1,0 +1,11 @@
+tempsensor 127.0.0.1
+motionsensor 127.0.0.1
+doorsensor 127.0.0.1
+server1 127.0.0.1
+server2 127.0.0.1
+serverbackend1 127.0.0.1
+serverbackend2 127.0.0.1
+presencesensor 127.0.0.1
+lightbulb 127.0.0.1
+smartoutlet 127.0.0.1
+user 127.0.0.1

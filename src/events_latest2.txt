@@ -1,0 +1,3 @@
+6	doorsensor,open	2017-04-23 17:22:25.720128	
+7	motionsensor,motion	2017-04-23 17:22:28.217027	
+8	presencesensor,no	2017-04-23 17:22:30.832387	
