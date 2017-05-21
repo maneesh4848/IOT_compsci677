@@ -1,0 +1,8 @@
+0	gateway	server
+1	gateway	serverbackend
+2	sensor	tempsensor
+3	sensor	motionsensor
+4	sensor	doorsensor
+5	sensor	presencesensor
+6	device	lightbulb
+7	device	smartoutlet

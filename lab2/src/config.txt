@@ -1,0 +1,9 @@
+tempsensor 128.119.243.175
+motionsensor 128.119.243.175
+doorsensor 128.119.243.175
+server 128.119.243.175
+serverbackend 128.119.243.175
+presencesensor 128.119.243.175
+lightbulb 128.119.243.175
+smartoutlet 128.119.243.175
+user 128.119.243.175
